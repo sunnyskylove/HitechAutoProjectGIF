@@ -16,4 +16,6 @@ clientFAQ<br>
 ClientResRespond 손님예약댓글 <br>
 ![ClientResReply-ezgif com-video-to-gif-converter](https://github.com/sunnyskylove/testGIF/assets/158137051/63aa34ac-bf24-4b9d-abbc-6fd279432064)
 <br>
-
+EmpResRespond 직원 예약 댓글 (조회,등록,수정,삭제)<br>
+![EmpResRespond-ezgif com-video-to-gif-converter](https://github.com/sunnyskylove/testGIF/assets/158137051/33446484-d1dd-411e-b102-c181c57a624a)
+<br>
