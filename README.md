@@ -28,3 +28,6 @@ AdminSupplement 관리자-부품수정,조회<br>
 AdminSupplementDelete 관리자-부품삭제<br>
 ![AdminPartsDelete](https://github.com/sunnyskylove/testGIF/assets/158137051/c24bbf78-9b6b-4a8b-a6b2-0013d38a77fa)
 <br>
+ProfileImgEdit_프로필 사진 수정<br>
+![ProfileImgEdit-ezgif com-video-to-gif-converter](https://github.com/sunnyskylove/testGIF/assets/158137051/c68cea2d-cfb6-4ffa-b94c-17fe4114b337)
+<br>
