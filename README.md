@@ -7,6 +7,8 @@ taskRegist<br>
 profileSearch <br>
 ![ProfileSearch-ezgif com-video-to-gif-converter](https://github.com/sunnyskylove/testGIF/assets/158137051/d9313973-1974-483a-a7a8-3f2f38ff8379)
 <br>
-
+clientFAQ<br>
+![clientFAQ](https://github.com/sunnyskylove/testGIF/assets/158137051/abf58897-6959-40d5-81f4-f56cbca2e705)
+<br>
 
 
