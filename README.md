@@ -19,3 +19,6 @@ ClientResRespond 일반- 예약 댓글 (조회,등록,수정,삭제) <br>
 EmpResRespond 직원- 예약 댓글 (조회,등록,수정,삭제)<br>
 ![EmpResRespond-ezgif com-video-to-gif-converter](https://github.com/sunnyskylove/testGIF/assets/158137051/33446484-d1dd-411e-b102-c181c57a624a)
 <br>
+AdminResRespond 관리자 예약 댓글 (등록,수정,삭제)<br>
+![adminResRespond-ezgif com-video-to-gif-converter](https://github.com/sunnyskylove/testGIF/assets/158137051/eef6276c-d872-421a-9b86-a58e7bbf721a)
+<br>
