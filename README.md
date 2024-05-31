@@ -25,3 +25,6 @@ AdminResRespond 관리자 예약 댓글 (등록,수정,삭제)<br>
 AdminSupplement 관리자-부품수정,조회<br>
 ![adminPartsEdit](https://github.com/sunnyskylove/testGIF/assets/158137051/a869cea5-4b52-4ed9-a9ae-c3f79745d2ee)
 <br>
+AdminSupplementDelete 관리자-부품삭제<br>
+![AdminPartsDelete](https://github.com/sunnyskylove/testGIF/assets/158137051/c24bbf78-9b6b-4a8b-a6b2-0013d38a77fa)
+<br>
