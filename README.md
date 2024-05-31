@@ -31,3 +31,6 @@ AdminSupplementDelete 관리자-부품삭제<br>
 ProfileImgEdit_프로필 사진 수정<br>
 ![ProfileImgEdit-ezgif com-video-to-gif-converter](https://github.com/sunnyskylove/testGIF/assets/158137051/c68cea2d-cfb6-4ffa-b94c-17fe4114b337)
 <br>
+ProfileImgDelte 프로필 사진 삭제<br>
+![ProfileImgDelete-ezgif com-video-to-gif-converter](https://github.com/sunnyskylove/testGIF/assets/158137051/900b2269-9c60-4f54-8c49-45557fe9acdd)
+<br>
