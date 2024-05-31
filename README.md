@@ -22,3 +22,6 @@ EmpResRespond 직원- 예약 댓글 (조회,등록,수정,삭제)<br>
 AdminResRespond 관리자 예약 댓글 (등록,수정,삭제)<br>
 ![adminResRespond-ezgif com-video-to-gif-converter](https://github.com/sunnyskylove/testGIF/assets/158137051/eef6276c-d872-421a-9b86-a58e7bbf721a)
 <br>
+AdminSupplement 관리자-부품수정,조회<br>
+![adminPartsEdit](https://github.com/sunnyskylove/testGIF/assets/158137051/a869cea5-4b52-4ed9-a9ae-c3f79745d2ee)
+<br>
