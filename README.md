@@ -13,5 +13,7 @@ adminProfile<br>
 clientFAQ<br>
 ![clientFAQ](https://github.com/sunnyskylove/testGIF/assets/158137051/abf58897-6959-40d5-81f4-f56cbca2e705)
 <br>
-
+ClientResRespond 손님예약댓글 <br>
+![ClientResReply-ezgif com-video-to-gif-converter](https://github.com/sunnyskylove/testGIF/assets/158137051/63aa34ac-bf24-4b9d-abbc-6fd279432064)
+<br>
 
