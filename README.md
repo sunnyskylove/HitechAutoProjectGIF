@@ -37,3 +37,6 @@ ProfileImgDelte 프로필 사진 삭제<br>
 ChangePassword 비밀번호 변경<br>
 ![changePassword-ezgif com-video-to-gif-converter](https://github.com/sunnyskylove/testGIF/assets/158137051/c0ace52d-0f55-4ed8-b0e9-858d0e2c59e4)
 <br>
+Logout 로그아웃- 2가지 방법<br>
+![logout-ezgif com-video-to-gif-converter](https://github.com/sunnyskylove/testGIF/assets/158137051/7cf411e0-28fd-478a-a8a7-1a414069997c)
+<br>
