@@ -34,3 +34,6 @@ ProfileImgEdit_프로필 사진 수정<br>
 ProfileImgDelte 프로필 사진 삭제<br>
 ![ProfileImgDelete-ezgif com-video-to-gif-converter](https://github.com/sunnyskylove/testGIF/assets/158137051/900b2269-9c60-4f54-8c49-45557fe9acdd)
 <br>
+ChangePassword 비밀번호 변경<br>
+![changePassword-ezgif com-video-to-gif-converter](https://github.com/sunnyskylove/testGIF/assets/158137051/c0ace52d-0f55-4ed8-b0e9-858d0e2c59e4)
+<br>
